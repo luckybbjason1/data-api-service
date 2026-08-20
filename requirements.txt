@@ -5,3 +5,6 @@ python-multipart==0.0.6
 aiohttp==3.9.1
 redis==5.0.1
 sqlite-async==1.2.0
+requests
+python-dotenv
+click
